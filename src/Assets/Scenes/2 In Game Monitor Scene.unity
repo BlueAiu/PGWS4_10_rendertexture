@@ -243,7 +243,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bce9a95216ee6cb4f96a3a64e171f805, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Rotate_Script
-  rotateSpeed: 20
+  rotateSpeed: 30
 --- !u!1 &159943825
 GameObject:
   m_ObjectHideFlags: 0
